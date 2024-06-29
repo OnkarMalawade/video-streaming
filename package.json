@@ -12,7 +12,7 @@
     "javascript",
     "backend"
   ],
-  "author": "Onkar Malawade",
+  "author": "Onkar Rajan Malawade",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.1.4"
